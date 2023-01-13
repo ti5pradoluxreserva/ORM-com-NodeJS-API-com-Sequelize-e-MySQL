@@ -1,6 +1,6 @@
 {
   "development": {
-    "username": "root",
+    "username": "alura",
     "password": "pradolux",
     "database": "escola_ingles",
     "host": "127.0.0.1",
@@ -8,15 +8,14 @@
     "operatorsAliases": false
   },
   "test": {
-    "username": "root",
-    "password": "pradolux",
+    "password": "alura",
     "database": "database_test",
     "host": "127.0.0.1",
     "dialect": "mysql",
     "operatorsAliases": false
   },
   "production": {
-    "username": "root",
+    "username": "alura",
     "password": "pradolux",
     "database": "database_production",
     "host": "127.0.0.1",
