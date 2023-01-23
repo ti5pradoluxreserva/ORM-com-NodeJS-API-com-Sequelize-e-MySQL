@@ -7,8 +7,6 @@ module.exports = (sequelize, DataTypes) => {
     Niveis.hasMany(models.Turmas, {
       foreignKey: 'nivel_id'
     })
-
-    // associations can be defined here
   };
   return Niveis;
 };
